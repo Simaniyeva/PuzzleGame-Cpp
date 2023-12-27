@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PuzzleGame", "PuzzleGame\PuzzleGame.vcxproj", "{5FC2A967-C618-4E44-A680-102FFF4735CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FC2A967-C618-4E44-A680-102FFF4735CD}.Debug|x64.ActiveCfg = Debug|x64
+		{5FC2A967-C618-4E44-A680-102FFF4735CD}.Debug|x64.Build.0 = Debug|x64
+		{5FC2A967-C618-4E44-A680-102FFF4735CD}.Debug|x86.ActiveCfg = Debug|Win32
+		{5FC2A967-C618-4E44-A680-102FFF4735CD}.Debug|x86.Build.0 = Debug|Win32
+		{5FC2A967-C618-4E44-A680-102FFF4735CD}.Release|x64.ActiveCfg = Release|x64
+		{5FC2A967-C618-4E44-A680-102FFF4735CD}.Release|x64.Build.0 = Release|x64
+		{5FC2A967-C618-4E44-A680-102FFF4735CD}.Release|x86.ActiveCfg = Release|Win32
+		{5FC2A967-C618-4E44-A680-102FFF4735CD}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F31EB4F-7FC1-4559-960B-55F38A64083B}
+	EndGlobalSection
+EndGlobal
